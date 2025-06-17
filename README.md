@@ -1,7 +1,7 @@
 
 ---
 
-# 🧿 TwinDoor – Ethical Windows 11 Backdoor for Red Teaming & Scammer Hunting
+# 🚪 TwinDoor – Ethical Windows 11 Backdoor for Red Teaming & Scammer Hunting
 
 **TwinDoor** is a modular, Windows 11-compatible backdoor developed for **ethical red teaming, scammer hunting, CTF labs, malware behavior research, and detection engineering**. It enables security professionals and researchers to simulate real-world adversary techniques in a controlled environment — helping blue teams prepare, threat hunters detect, and reverse engineers learn from realistic adversarial behavior.
 
